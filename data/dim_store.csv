@@ -1,0 +1,29 @@
+StoreID,Country,Region,City,StoreType
+S001,United States,Americas,New York,Apple Store
+S002,United States,Americas,San Francisco,Apple Store
+S003,United States,Americas,Chicago,Apple Store
+S004,United States,Americas,Austin,Apple Store
+S005,United States,Americas,Online - US,Online Store
+S006,Canada,Americas,Toronto,Apple Store
+S007,Canada,Americas,Online - CA,Online Store
+S008,Brazil,Americas,Sao Paulo,Authorized Reseller
+S009,United Kingdom,Europe,London,Apple Store
+S010,United Kingdom,Europe,Online - UK,Online Store
+S011,Germany,Europe,Berlin,Apple Store
+S012,Germany,Europe,Munich,Apple Store
+S013,France,Europe,Paris,Apple Store
+S014,Italy,Europe,Milan,Authorized Reseller
+S015,China,Greater China,Shanghai,Apple Store
+S016,China,Greater China,Beijing,Apple Store
+S017,China,Greater China,Online - CN,Online Store
+S018,Hong Kong,Greater China,Hong Kong,Apple Store
+S019,Japan,Japan,Tokyo,Apple Store
+S020,Japan,Japan,Osaka,Apple Store
+S021,Japan,Japan,Online - JP,Online Store
+S022,India,Rest of Asia Pacific,Mumbai,Apple Store
+S023,India,Rest of Asia Pacific,Delhi,Apple Store
+S024,India,Rest of Asia Pacific,Online - IN,Online Store
+S025,Australia,Rest of Asia Pacific,Sydney,Apple Store
+S026,Singapore,Rest of Asia Pacific,Singapore,Apple Store
+S027,South Korea,Rest of Asia Pacific,Seoul,Apple Store
+S028,UAE,Middle East,Dubai,Apple Store

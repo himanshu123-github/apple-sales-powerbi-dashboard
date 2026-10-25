@@ -1,0 +1,30 @@
+ProductID,ProductName,Category,LaunchDate,UnitPrice,UnitCost
+P001,iPhone 13,iPhone,2021-09-24,699,433.38
+P002,iPhone 14,iPhone,2022-09-16,799,479.4
+P003,iPhone 14 Pro,iPhone,2022-09-16,999,579.42
+P004,iPhone 15,iPhone,2023-09-22,799,471.41
+P005,iPhone 15 Pro,iPhone,2023-09-22,999,569.43
+P006,iPhone 16,iPhone,2024-09-20,799,463.42
+P007,iPhone 16 Pro,iPhone,2024-09-20,999,559.44
+P008,MacBook Air M1,Mac,2020-11-17,999,699.3
+P009,MacBook Air M2,Mac,2022-07-15,1099,747.32
+P010,MacBook Air M3,Mac,2024-03-08,1099,725.34
+P011,MacBook Pro 14,Mac,2021-10-26,1999,1299.35
+P012,iMac 24,Mac,2021-05-21,1299,883.32
+P013,Mac mini,Mac,2023-01-24,599,419.3
+P014,iPad 10th Gen,iPad,2022-10-26,449,323.28
+P015,iPad Air,iPad,2022-03-18,599,419.3
+P016,iPad Pro 11,iPad,2022-10-26,799,527.34
+P017,iPad mini,iPad,2021-09-24,499,354.29
+P018,Apple Watch SE,"Wearables, Home & Accessories",2022-09-16,249,149.4
+P019,Apple Watch Series 9,"Wearables, Home & Accessories",2023-09-22,399,231.42
+P020,Apple Watch Ultra 2,"Wearables, Home & Accessories",2023-09-22,799,415.48
+P021,AirPods 3,"Wearables, Home & Accessories",2021-10-26,179,98.45
+P022,AirPods Pro 2,"Wearables, Home & Accessories",2022-09-23,249,124.5
+P023,AirPods Max,"Wearables, Home & Accessories",2020-12-15,549,301.95
+P024,HomePod mini,"Wearables, Home & Accessories",2020-11-16,99,59.4
+P025,iCloud+ Annual,Services,2021-01-01,119,17.85
+P026,Apple Music Annual,Services,2021-01-01,119,35.7
+P027,Apple TV+ Annual,Services,2021-01-01,99,34.65
+P028,AppleCare+,Services,2021-01-01,199,39.8
+P029,Apple Arcade Annual,Services,2021-01-01,50,15.0
